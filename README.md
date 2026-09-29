@@ -8,3 +8,4 @@ Este projeto consiste na implementação de uma estrutura de dados de Árvore Bi
 - **Mutabilidade Dinâmica de Nós:** Diferenciação entre nós de decisão (perguntas) e nós folha (respostas) via `structs` e `enums`. Quando a aplicação falha ao adivinhar, o nó folha é transformado dinamicamente em um nó de decisão, alocando a nova pergunta e encadeando a resposta antiga e a nova nas subárvores correspondentes.
 - **Algoritmos e Travessia Recursiva:** Implementação de navegação recursiva para percorrer os ramos da árvore, além do algoritmo de travessia em Pré-Ordem (*Pre-Order Traversal*) para exibição do estado da estrutura após cada aprendizado.
 - **Persistência em Tempo de Execução:** A estrutura evolui de forma contínua durante a execução sem perder o histórico do fluxo de perguntas já estruturado.
+<img width="1019" height="820" alt="image" src="https://github.com/user-attachments/assets/f472e3e4-846b-4d49-967e-fe88c36aeb2f" />
